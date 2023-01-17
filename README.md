@@ -210,14 +210,14 @@ Armour or Vehicles start in the 1000’s).
 5   Charge		Heavy		Precise
 6   Cleave		Illegal		Quick
 
-   | 1, 2    | 3, 4      | 5, 6    
----|---------|-----------|---------
- 1 | Antique | Exquisite | Light   
- 2 | Blast   | Furtive   | Living  
- 3 | Brutal  | Grapple   | Mystic  
- 4 | Bulky   | Grotesque | Optic   
- 5 | Charge  | Heavy     | Precise 
- 6 | Cleave  | Illegal   | Quick   
+|   | 1, 2    | 3, 4      | 5, 6    |
+|---|---------|-----------|---------|
+| 1 | Antique | Exquisite | Light   |
+| 2 | Blast   | Furtive   | Living  |
+| 3 | Brutal  | Grapple   | Mystic  |
+| 4 | Bulky   | Grotesque | Optic   |
+| 5 | Charge  | Heavy     | Precise |
+| 6 | Cleave  | Illegal   | Quick   |
  
 ### Benefit
 HP	Outcome
