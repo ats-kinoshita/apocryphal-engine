@@ -1,49 +1,71 @@
-# Rules Reference
-Repository of the different minimalist RPG systems I'm toying with
+A repository of the different minimalist RPG systems I'm toying with
 
-# Mother-LOD
-## Rules Summary
-### Saves
+
+# Mother-LOD Rules Summary
+## Saves
 Roll a d20 under your Attribute’s current value.
+
 1 always succeeds; 20 always fails and tests Panic.
 
-### Attacks
-Roll weapon die, d4 if Impaired, d12 if Enhanced. Spend the roll reducing HP to 0, then Body. 
+
+## Attacks
+Roll weapon die, d4 if Impaired, d12 if Enhanced. 
+
+Spend the roll reducing HP to 0, then Body. 
+
 The target’s AP reduces Attacks by that amount.
 
-### Critical Hits
+
+## Critical Hits
 If an Attack damages the Body, roll Body Save. Failure means Incapacitation or worse.
 Sacrificing your Shield negates the failed Save.
 
-### Rest & Recovery
+
+## Rest & Recovery
 A few moments out of combat is a Quick Rest: 
-> Recover HP; get up if Incapacitated
+> Recover HP
+> 
+> Get up if Incapacitated
+
+
 A full night of sleep is a Long Rest:
 > Recover +1 to damaged stats on Save
-If Deprived, no Recovery on Rest.
+> 
+> If Deprived, no Recovery on Rest.
 
-### Combat
+
+## Combat
 Declare Movement and Action each Round. 
+
 Resolve all simultaneously.
+
 Poise or Reflex Save against being Surprised.
+
 Conflicting Outcomes force most at risk to Save.
 
-### Gambits
+## Gambits
 Combat Maneuvers happen:
 > On Critical Hit if it takes out the target
+> 
 > As a Conflicting Outcome otherwise
+
 Other Gambits are resolved by:
 > A Dilemma, choose one or push for better
+> 
 > It Happens, live with the consequences
+> 
 > A Roll, either a Save or plain Luck (d6 roll low)
 
-### Supply
+## Supply
 Carry as much or as little Supply you want.
+
 Expected Use is done without question.
+
 Creative Use needs a check after for Depletion.
 
-### Panic
+## Panic
 Roll Stress Save: if Stressed, consult Panic Table.
+
 On a 1, roll a d12; take as new Max HP if higher.
 
 ## Scenario Sparks
@@ -93,8 +115,8 @@ On a 1, roll a d12; take as new Max HP if higher.
 16-18	Catatonia: Unresponsive
 19, 20	Heart Attack: Dying, d20 min. left
 
-## Game Mechanics
-### Character Stats
+# Game Mechanics
+## Character Stats
 Your ability to handle danger is defined by your Harm Protection (HP) and Attribute Stats: 
 > HP reflects your potential to evade fate
 > Body is your conditioning and constitution
@@ -102,19 +124,19 @@ Your ability to handle danger is defined by your Harm Protection (HP) and Attrib
 > Sanity is your clarity under duress
 You can Carry a number of items equal to your current Body stat. However, if  you carry three or more items of cumbersome Quality then your HP reduces to 0 from the unwieldy burden.
 
-### Saving Throws
+## Saving Throws
 To resist the consequences of your actions or inactions make an Attribute Save: 
 > Determine the most relevant Attribute
 > Roll a d20 under or equal the current value
 Rolling 1 always succeeds, while 20 always fails.
 
-### Making Attacks
+## Making Attacks
 When trying to Attack someone, you roll your weapon’s die to see how it goes: 
 > For Impaired Attacks you roll a d4 instead
 > For Enhanced Attacks you roll a d12 instead
 A weapon with a relevant Quality to affect multiple targets rolls Attacks against all in range.
 
-### Taking & Dealing Damage
+## Taking & Dealing Damage
 An Attack targeting the Body is reduced by any Armour Points (AP) the target has (3 AP max). 
 The remaining Attack is spent reducing the target’s HP to 0, then their Body: 
 > Damaging the Body stat means a successful Hit
@@ -122,25 +144,25 @@ The remaining Attack is spent reducing the target’s HP to 0, then their Body:
 > Reducing Body to 0 this way means Death
 Special Attacks may likewise target other stats.
 
-### Critical Hits
+## Critical Hits
 Taking a Critical Hit usually means being Incapacitated until you can have a Quick Rest. However, particularly nasty threats may have worse consequences, such as serious Ailments, Injuries, or even Death. If you have a Shield, you can Sacrifice it to negate the Critical.
 
-### Rest & Recovery
+## Rest & Recovery
 When out of Combat and able to take a few moments for a Quick Rest, characters Recover their HP to full and can get back to their feet if Incapacitated. When able to have a full night’s Long Rest, characters roll Saves for each damaged Attribute, Recovering +1 to those that succeed. Faster options exist, but usually at a cost.
 
-### Attribute Loss
+## Attribute Loss
 Some dangers may cause Attribute Loss, bypassing AP and HP entirely, and will have their own effects upon reducing an Attribute to 0.
 
-### Deprivation
+## Deprivation
 If you are Deprived of basic necessities (sleep, food, water, warmth, or air) then you cannot Recover from any Rest. Certain Ailments and Injuries cause this as well.
 
-### Combat Rounds
+## Combat Rounds
 When the order of action is a life or death matter, Combat is initiated. Characters announce what they will do in a round, which is then resolved simultaneously. In a round a character may both: 
 > Move nearby, including simple interactions
 > Take Action, like an Attack or Gambit
 Characters Surprised when Combat is initiated must make a Calm  Save or miss the first round. Conflicting Outcomes are resolved by the party most at risk making a Save.
 
-### Gambits
+## Gambits
 When trying to do a Combat Maneuver (such as called shots, disarming, or tripping), consider if it directly takes the target out: 
 > If so, then it happens on a Critical Hit
 > If not, resolve it like a Conflicting Outcome
@@ -149,7 +171,7 @@ Other Gambits outside direct Combat (such as parleys, shadowing, or silent kills
 > It Happens, live with the consequences
 > A Roll, either a Save or plain Luck (d6 roll high)
 
-## Adventuring
+# Adventuring
 ### Stress & Panic
 Horrors and failing Saves will build up Stress, a negative Attribute (which reduces on Recovery). When you fail a Save, increase Stress by 1. Whenever you roll 20 on a Save, roll for Panic: 
 > Make a Stress Save
