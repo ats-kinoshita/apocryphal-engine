@@ -16,12 +16,12 @@ Sacrificing your Shield negates the failed Save.
 
 ## Rest & Recovery
 A few moments out of combat is a Quick Rest:  
-> Recover HP  
-> Get up if Incapacitated
+* Recover HP  
+* Get up if Incapacitated
 
 A full night of sleep is a Long Rest:  
-> Recover +1 to damaged stats on Save   
-> If Deprived, no Recovery on Rest.
+* Recover +1 to damaged stats on Save   
+* If Deprived, no Recovery on Rest.
 
 ## Combat
 Declare Movement and Action each Round.  
@@ -31,13 +31,13 @@ Conflicting Outcomes force most at risk to Save.
 
 ## Gambits
 Combat Maneuvers happen:  
-> On Critical Hit if it takes out the target   
-> As a Conflicting Outcome otherwise  
+* On Critical Hit if it takes out the target   
+* As a Conflicting Outcome otherwise  
 
 Other Gambits are resolved by:  
-> A Dilemma, choose one or push for better   
-> It Happens, live with the consequences   
-> A Roll, either a Save or plain Luck (d6 roll low)
+* A Dilemma, choose one or push for better   
+* It Happens, live with the consequences   
+* A Roll, either a Save or plain Luck (d6 roll low)
 
 ## Supply
 Carry as much or as little Supply you want.  
@@ -102,30 +102,30 @@ On a 1, roll a d12; take as new Max HP if higher.
 # Game Mechanics
 ## Character Stats
 Your ability to handle danger is defined by your Harm Protection (HP) and Attribute Stats:   
-> HP reflects your potential to evade fate  
-> Body is your conditioning and constitution  
-> Calm is your composure when pressured  
-> Sanity is your clarity under duress  
+* HP reflects your potential to evade fate  
+* Body is your conditioning and constitution  
+* Calm is your composure when pressured  
+* Sanity is your clarity under duress  
 You can Carry a number of items equal to your current Body stat. However, if  you carry three or more items of cumbersome Quality then your HP reduces to 0 from the unwieldy burden.
 
 ## Saving Throws
 To resist the consequences of your actions or inactions make an Attribute Save:  
-> Determine the most relevant Attribute  
-> Roll a d20 under or equal the current value  
+* Determine the most relevant Attribute  
+* Roll a d20 under or equal the current value  
 Rolling 1 always succeeds, while 20 always fails.  
 
 ## Making Attacks
 When trying to Attack someone, you roll your weapon’s die to see how it goes:   
-> For Impaired Attacks you roll a d4 instead  
-> For Enhanced Attacks you roll a d12 instead  
+* For Impaired Attacks you roll a d4 instead  
+* For Enhanced Attacks you roll a d12 instead  
 A weapon with a relevant Quality to affect multiple targets rolls Attacks against all in range.  
 
 ## Taking & Dealing Damage
 An Attack targeting the Body is reduced by any Armour Points (AP) the target has (3 AP max).   
 The remaining Attack is spent reducing the target’s HP to 0, then their Body:   
-> Damaging the Body stat means a successful Hit  
-> If Hit, make a Body Save or take a Critical Hit  
-> Reducing Body to 0 this way means Death  
+* Damaging the Body stat means a successful Hit  
+* If Hit, make a Body Save or take a Critical Hit  
+* Reducing Body to 0 this way means Death  
 Special Attacks may likewise target other stats.  
 
 ## Critical Hits
@@ -142,24 +142,24 @@ If you are Deprived of basic necessities (sleep, food, water, warmth, or air) th
 
 ## Combat Rounds
 When the order of action is a life or death matter, Combat is initiated. Characters announce what they will do in a round, which is then resolved simultaneously. In a round a character may both:  
-> Move nearby, including simple interactions  
-> Take Action, like an Attack or Gambit  
+* Move nearby, including simple interactions  
+* Take Action, like an Attack or Gambit  
 Characters Surprised when Combat is initiated must make a Calm  Save or miss the first round. Conflicting Outcomes are resolved by the party most at risk making a Save.  
 
 ## Gambits
 When trying to do a Combat Maneuver (such as called shots, disarming, or tripping), consider if it directly takes the target out:   
-> If so, then it happens on a Critical Hit  
-> If not, resolve it like a Conflicting Outcome  
+* If so, then it happens on a Critical Hit  
+* If not, resolve it like a Conflicting Outcome  
 Other Gambits outside direct Combat (such as parleys, shadowing, or silent kills) will be adjudicated by the GM case by case; likely by:  
-> Deal or Dilemma, choose or push for better  
-> It Happens, live with the consequences  
-> A Roll, either a Save or plain Luck (d6 roll high)  
+* Deal or Dilemma, choose or push for better  
+* It Happens, live with the consequences  
+* A Roll, either a Save or plain Luck (d6 roll high)  
 
 # Adventuring
 ### Stress & Panic
 Horrors and failing Saves will build up Stress, a negative Attribute (which reduces on Recovery). When you fail a Save, increase Stress by 1. Whenever you roll 20 on a Save, roll for Panic:   
-> Make a Stress Save  
-> On success, consult Panic Table with your roll   
+* Make a Stress Save  
+* On success, consult Panic Table with your roll   
 
 ### Panic Table
 1	Focus: Roll d12; new HP if higher  
@@ -174,11 +174,11 @@ Horrors and failing Saves will build up Stress, a negative Attribute (which redu
 
 ### Expeditions
 You are expected to be properly equipped for any Expedition. This comes in the form of Resource Supply, an item that is individually enough for the whole crew’s Usage regarding the resource.  
-> Carry as much or as little Supply you want  
-> Expected Use is done without question  
-> Creative Use needs a check after for Depletion:  
+* Carry as much or as little Supply you want  
+* Expected Use is done without question  
+* Creative Use needs a check after for Depletion:  
   1-3: OK / 4, 5: One Use left / 6: Depleted  
-> Examples: Food / Water / First Aid / Oxygen /  
+* Examples: Food / Water / First Aid / Oxygen /  
             Camping / Climbing / Maintenance  
 
 ### Commerce and Scarcity
@@ -192,20 +192,20 @@ Armour or Vehicles start in the 1000’s).
 1. Roll 1d6 for Max HP  
 2. Add 3d6 each for Max Body, Calm, and Sanity:  
      (Note following Qualities if 14+ or 7-)  
-     > Body: Strong / Fragile  
-     > Calm: Steady / Tense  
-     > Sanity: Sharp / Addled  
+     * Body: Strong / Fragile  
+     * Calm: Steady / Tense  
+     * Sanity: Sharp / Addled  
 3. Determine Bioclass, Affiliation, and Function:  
-     > 1-4: Organic / 5, 6: Synthetic  
-     > 1, 2: Social / 3, 4: Political / 5, 6: Economic /   
+     * 1-4: Organic / 5, 6: Synthetic  
+     * 1, 2: Social / 3, 4: Political / 5, 6: Economic /   
          7, 8: Religious / 9, 10: Militant  
-     > 1: Overseer / 2: Emissary / 3: Labourer /   
+     * 1: Overseer / 2: Emissary / 3: Labourer /   
          4: Scholar / 5: Combatant / 6: Outcast  
 4. Add 3d6, multiply by 10 for starting Credits:  
-     > Roll (d6, d6) Quality for your Vac Suit  
-     > Check Benefit, (d6, d6) Quality for Asset(s)  
+     * Roll (d6, d6) Quality for your Vac Suit  
+     * Check Benefit, (d6, d6) Quality for Asset(s)  
 5. Name yourself, your Affiliation, and a Contact:  
-     > What motivated you to join this expedition?  
+     * What motivated you to join this expedition?  
 
 ### Quality
 |    | 1, 2		|3, 4		|5, 6           |
@@ -229,15 +229,15 @@ Armour or Vehicles start in the 1000’s).
 ### Benefit
 |HP	|Outcome  |
 |---|---------|
-|1 	|Talent, Assets w/ total of 2 Value  |
+|1 	|Talent, Assets w/ total of 2 Value	|
 |2-5|Assets w/ total of (6 - HP) Value  |
-|6	|+1 Stat, Simple Tool  |
+|6	|+1 Stat, Simple Tool				|
 
 |Value|	Asset  |
 |-----|--------|
-|1	|Tool / Weapon          |
-|2	|Augment / Drone         |
-|3	|Armour / Vehicle      |
+|1	|Tool / Weapon		|
+|2	|Augment / Drone    |
+|3	|Armour / Vehicle   |
 |4	|Guardian / Wonder  |
    
 Simple Tool:  
