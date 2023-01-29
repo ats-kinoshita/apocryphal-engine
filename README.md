@@ -227,17 +227,26 @@ Armour or Vehicles start in the 1000’s).
 | 6 | Cleave  | Illegal   | Quick   |
  
 ### Benefit
-HP	Outcome  
-1 	Talent, Assets w/ total of 2 Value  
-2-5 	Assets w/ total of (6 - HP) Value  
-6	+1 Stat, Simple Tool  
-                          Simple Tool  
-Value	Asset               1  Fastens  
-1	Tool / Weapon           2  Heats  
-2	Augment / Drone         3  Moves  
-3	Armour / Vehicle        4  Perceives  
-4	Guardian / Wonder       5  Protects  
-                            6  Shears  
+|HP	|Outcome  |
+|---|---------|
+|1 	|Talent, Assets w/ total of 2 Value  |
+|2-5|Assets w/ total of (6 - HP) Value  |
+|6	|+1 Stat, Simple Tool  |
+
+|Value|	Asset  |
+|-----|--------|
+|1	|Tool / Weapon          |
+|2	|Augment / Drone         |
+|3	|Armour / Vehicle      |
+|4	|Guardian / Wonder  |
+   
+Simple Tool:  
+	1	Fastens  
+	2	Heats  
+	3	Moves  
+	4	Perceives  
+	5	Protects  
+	6	Shears  
 
 Weapon Templates: Crude Weapon (d4) /   
      Sidearm (d6) / Longarm (d8, Bulky) /   
