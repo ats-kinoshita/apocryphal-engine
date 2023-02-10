@@ -1,12 +1,12 @@
 # How I Want to Run the Game
 ## Conversation
-The game is a conversation, in which the players do two things primarily:
-1. Decalarations of character. This is done in the first person present, and limited to the "scene" in a rather implicit way. Players make declarations of their own characters, or if questioned details related to their history/slice of the world.
-2. Questions about the world. Whatever asked, the characters either know or know where to find out. Such a source may be esoteric, and worthy of a quest in and of itself.
+The game is a conversation, in which the players primarily do two things:
+1. Decalarations of character. This is done in the first/third person present; and limited to the "scene" in a rather implicit way. Players make declarations about their own character, or details from their creation.
+2. Ask questions about the world. Whatever asked, the characters either know or know where to find out. Such a source may be esoteric, and worthy of a quest in and of itself.
 
-## Decalarations
-1. Is it impossible? If so, try to ask about why they think it's possible to know what assumptions are misleading the player.
-2. Is there an obstacle? Generate its Challenge (qualities, threats, hits).
+## Decalaration
+1. Is it impossible? If so, communicate your assumptions to find understanding. 
+2. Is there an obstacle? Generate its Challenge (qualities, threats, and hits).
 3. It happens.
 
 ## Challenge
