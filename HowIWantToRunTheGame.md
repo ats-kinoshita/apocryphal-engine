@@ -10,6 +10,16 @@ The game is a conversation, in which the players primarily do two things:
 3. It happens.
 
 ## Challenge
+A Challenge is defined by its Qualities, Threats, and Hit Protection.  
+
+* Qualities tip the scale of what can be done.  
+* Threats are harm or other consequences that the Challenge could inflict on the Players.  
+* Hits are a tracker for how long the challenge will take until it is overcome.  
+
+Challenges highlight the fiction, not define it. As the story evolves, the Challenge should fluidly be adapted or bypassed all together.  
+
+## Success
+Player success when dealing with Threats should be determined by the following flowchart:  
 1. Drama -> Deal or Dilemma
 2. Karma -> It happens
-3. Fortune -> Roll a Save (Conflicting Action) or Luck (d6 odds)
+3. Fortune -> Roll a Save (Conflicting Action) or Luck (d6-based odds)
