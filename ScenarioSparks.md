@@ -15,8 +15,8 @@
 |1   |Eliminate	    |Agent	    |          
 |2   |Investigate   |Camp	    |         
 |3   |Locate	    |Group	    |        
-|4   |Protect	  	|Item	    |       
-|5   |Recover	  	|Info	    |      
+|4   |Protect	  	|Info	    |       
+|5   |Recover	  	|Item	    |      
 |6   |Seize			|Leader		|   
 
 ### Details
