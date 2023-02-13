@@ -1,3 +1,5 @@
+These are the procedures I wish to use when running any game.
+
 # How I Want to Run the Game
 ## Conversation
 The game is a conversation, in which the players primarily do two things:
