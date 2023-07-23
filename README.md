@@ -6,7 +6,7 @@ The game is a conversation, in which the players primarily do two things:
 1. Declarations of character. This is done in the first/third person present; and limited to the "scene" in a rather implicit way. Players make declarations about their own character, or details from their creation.
 2. Ask questions about the world. Whatever asked, the characters either know or know where to find out. Such a source may be esoteric, and worthy of a quest in and of itself.
 
-whereas the GM primarily does the following:
+The GM primarily does the following:
 1. Give Presentation to the scene and setting
 2. Ask Developing Questions about the initial position or background of the PCs and their NPCs/settings
 3. Introduce Twists (Deals, Dilemmas, Threats/Challenges)
@@ -16,11 +16,18 @@ The cycle of play inherited from Blades in the Dark is the following:
 1. Free Play
 2. Engagement Roll
 3. Challenge/Score
-4. Payoff/Recovery  
+4. Payoff/Recovery
 
-## Consideration
+## Response
+When responding to Declarations, always fallback to the following:
 1. Is there an obstacle? Generate its Challenge (Hits, Qualities, Threats).
-2. Is it possible? Consider the 3 part resolution (Drama, Karma, Fortune)  
+2. Is it possible? Consider the 3 part resolution (Drama, Karma, Fortune)
+
+Likewise, for Questions once again fallback to they either: 
+1. Know the information, or
+2. Know where to find out.
+
+Of course, if there is an Information Gathering roll then use the above to resolve the outcomes.  
 
 ## Challenge
 A Challenge is defined by its Qualities, Threats, and Hit Protection.  
@@ -30,14 +37,14 @@ A Challenge is defined by its Qualities, Threats, and Hit Protection.
 * Threats are harm or other consequences that the Challenge could inflict on the Players.  
 
 Hits might follow this format :  
-1. Immediate
+1. Immediate (one-off Threat)
 2. Simple (less than or equal half your tier)
 3. Normal (less than your tier)
 4. Challenging (equal tier)
 5. Complex (greater tier)
 6. Daunting (greater than or equal twice your tier)  
 
-Challenges highlight the fiction, not define it. As the story evolves, the Challenge should fluidly be adapted or bypassed all together.  
+Note Challenges highlight the fiction, not define it. As the story evolves, the Challenge should fluidly adapt or be passed over.  
 I would like to eventually define an Engagement Roll a la Blades in the Dark.  
 
 ## Success
