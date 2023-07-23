@@ -19,11 +19,18 @@ The cycle of play inherited from Blades in the Dark is the following:
 4. Payoff/Recovery
 
 ## Response
-When responding to Declarations, always fallback to the following:
-1. Is there an obstacle? Generate its Challenge (Hits, Qualities, Threats).
+When responding to Declarations in Free Play, fallback to the following:
+1. Is there an Obstacle to their Goal? Generate its Challenge (Hits, Qualities, Threats).
 2. Is it possible? Consider the 3 part resolution (Drama, Karma, Fortune)
 
-Likewise, for Questions once again fallback to they either: 
+(Remember you can always ask clarifying questions as to what their ultimate goal is for what they declare.)
+
+When responding to Declarations in a Challenge, fallback to the following:
+1. Introduce a Threat (Drama)
+2. It happens (Karma)
+3. ... but to what degree? (Fortune)
+
+When responding to Questions fallback to either they: 
 1. Know the information, or
 2. Know where to find out.
 
